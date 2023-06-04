@@ -1,3 +1,3 @@
 # natural-language-processing
 
-Learning basic NLP with spaCy before summer internship starts
+Learning some NLP with spaCy before summer internship starts
